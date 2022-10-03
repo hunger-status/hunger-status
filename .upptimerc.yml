@@ -6,7 +6,7 @@ sites:
   - name: Hunger
     url: https://hunger.ai
   - name: Hunger Customer
-    url: https://hunger.ai/g/hungersalon
+    url: https://hunger.ai/g/index.html
   - name: Hunger Backend
     url: https://hunger.ai/actuator/health
 
