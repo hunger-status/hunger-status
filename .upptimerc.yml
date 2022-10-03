@@ -8,7 +8,7 @@ sites:
   - name: Hunger Customer
     url: https://hunger.ai/g/index.html
   - name: Hunger Backend
-    url: https://hunger.ai/actuator/health
+    url: https://hunger.ai/api/v3/p/sys/time
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
