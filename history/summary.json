@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hunger.ai.ico",
     "slug": "hunger-customer",
     "status": "up",
-    "uptime": "1.30%",
-    "uptimeDay": "1.30%",
-    "uptimeWeek": "1.30%",
-    "uptimeMonth": "1.30%",
-    "uptimeYear": "1.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 338,
     "timeDay": 338,
     "timeWeek": 338,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {
-      "2022-10-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hunger Backend",
