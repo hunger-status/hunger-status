@@ -4,18 +4,20 @@
     "url": "https://hunger.ai",
     "icon": "https://icons.duckduckgo.com/ip3/hunger.ai.ico",
     "slug": "hunger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1074,
-    "timeDay": 1181,
-    "timeWeek": 1152,
-    "timeMonth": 1127,
-    "timeYear": 1074,
-    "dailyMinutesDown": {}
+    "time": 1071,
+    "timeDay": 779,
+    "timeWeek": 1055,
+    "timeMonth": 1103,
+    "timeYear": 1071,
+    "dailyMinutesDown": {
+      "2023-05-20": 0
+    }
   },
   {
     "name": "Hunger Customer",
