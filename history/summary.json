@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 862,
-    "timeDay": 332,
-    "timeWeek": 408,
-    "timeMonth": 298,
-    "timeYear": 862,
+    "time": 861,
+    "timeDay": 320,
+    "timeWeek": 406,
+    "timeMonth": 302,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2023-05-20": 61
     }
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hunger.ai.ico",
     "slug": "hunger-customer",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 269,
-    "timeDay": 84,
-    "timeWeek": 267,
+    "timeDay": 312,
+    "timeWeek": 256,
     "timeMonth": 279,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 308,
-    "timeWeek": 277,
-    "timeMonth": 276,
+    "timeDay": 206,
+    "timeWeek": 263,
+    "timeMonth": 273,
     "timeYear": 287,
     "dailyMinutesDown": {}
   }
