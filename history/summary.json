@@ -48,17 +48,19 @@
     "url": "https://hunger.ai/api/v3/p/sys/time",
     "icon": "https://icons.duckduckgo.com/ip3/hunger.ai.ico",
     "slug": "hunger-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 237,
-    "timeWeek": 267,
-    "timeMonth": 286,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "timeDay": 225,
+    "timeWeek": 261,
+    "timeMonth": 284,
+    "timeYear": 287,
+    "dailyMinutesDown": {
+      "2023-10-26": 0
+    }
   }
 ]
