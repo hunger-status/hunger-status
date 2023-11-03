@@ -1,7 +1,7 @@
 url: https://hunger.ai
-status: up
-code: 200
-responseTime: 2048
-lastUpdated: 2023-11-02T23:16:34.503Z
+status: down
+code: 503
+responseTime: 2373
+lastUpdated: 2023-11-03T03:35:56.559Z
 startTime: 2022-10-03T08:58:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
