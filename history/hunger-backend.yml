@@ -1,7 +1,7 @@
 url: https://hunger.ai/api/v3/p/sys/time
-status: down
-code: 504
-responseTime: 10230
-lastUpdated: 2024-03-18T02:05:40.724Z
+status: up
+code: 200
+responseTime: 330
+lastUpdated: 2024-03-18T02:26:09.034Z
 startTime: 2022-10-03T08:59:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
