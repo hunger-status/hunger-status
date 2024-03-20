@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 902,
-    "timeDay": 647,
-    "timeWeek": 824,
-    "timeMonth": 805,
-    "timeYear": 831,
+    "time": 901,
+    "timeDay": 433,
+    "timeWeek": 721,
+    "timeMonth": 785,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2023-09-25": 91,
       "2023-05-20": 61
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
-    "timeDay": 520,
-    "timeWeek": 293,
-    "timeMonth": 298,
+    "timeDay": 338,
+    "timeWeek": 297,
+    "timeMonth": 299,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2023-07-18": 28
@@ -47,15 +47,15 @@
     "slug": "hunger-backend",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 314,
-    "timeDay": 3638,
+    "timeDay": 352,
     "timeWeek": 1417,
     "timeMonth": 632,
-    "timeYear": 322,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2024-03-18": 20,
       "2023-11-24": 19
