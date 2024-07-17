@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 831,
-    "timeDay": 498,
-    "timeWeek": 719,
-    "timeMonth": 750,
-    "timeYear": 888,
+    "timeDay": 919,
+    "timeWeek": 722,
+    "timeMonth": 760,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2023-09-25": 91
     }
@@ -31,13 +31,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 89,
-    "timeWeek": 226,
+    "timeDay": 313,
+    "timeWeek": 229,
     "timeMonth": 285,
-    "timeYear": 276,
-    "dailyMinutesDown": {
-      "2023-07-18": 28
-    }
+    "timeYear": 277,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hunger Backend",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 316,
-    "timeDay": 303,
-    "timeWeek": 288,
-    "timeMonth": 279,
+    "timeDay": 223,
+    "timeWeek": 280,
+    "timeMonth": 276,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2024-03-21": 22,
