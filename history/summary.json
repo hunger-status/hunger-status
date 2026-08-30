@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1085,
-    "timeDay": 2160,
+    "timeDay": 2036,
     "timeWeek": 1911,
     "timeMonth": 1795,
     "timeYear": 1171,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 499,
+    "timeDay": 621,
     "timeWeek": 443,
     "timeMonth": 494,
     "timeYear": 393,
@@ -40,17 +40,19 @@
     "url": "https://hunger.ai/api/v3/p/sys/time",
     "icon": "https://icons.duckduckgo.com/ip3/hunger.ai.ico",
     "slug": "hunger-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 325,
-    "timeWeek": 351,
-    "timeMonth": 479,
+    "time": 308,
+    "timeDay": 237,
+    "timeWeek": 322,
+    "timeMonth": 468,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-30": 0
+    }
   }
 ]
